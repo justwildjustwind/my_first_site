@@ -1,6 +1,13 @@
 body{
 	background-color: #000;
 }
+
+p{
+	color: #c5adf7;
+}
 .sand_text{
 	color: #e0dc82;
+}
+.white_text{
+	color: #fff;
 }
